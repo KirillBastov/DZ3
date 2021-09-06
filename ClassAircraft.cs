@@ -2,7 +2,7 @@
 
 namespace TypePassengerAircraft
 {
-    public enum PassengerOfAircraft { PassengerAircraft } //Пассажирские самолёты 
+    public enum PassengerOfAircraft { PassengerAircraft } //Пассажирские самолётыы
     public class PassengerAircraft : Params
     {
         public PassengerOfAircraft pass;
